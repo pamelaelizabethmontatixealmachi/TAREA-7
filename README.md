@@ -15,46 +15,49 @@ Describir como los transformadores incrementan y disminuyan el voltaje
 
 MARCO TEÓRICO:
 
+![image](https://user-images.githubusercontent.com/116780506/222041491-18b66c49-ff41-4478-8fac-f2e0ef78738a.png)
+
+
+
 EJERCICIOS:
-![image](https://user-images.githubusercontent.com/116780506/221467241-33eb19ba-a376-41d5-8549-f3d93f89f762.png)
+![image](https://user-images.githubusercontent.com/116780506/222037478-993fdf5a-ea6a-4b9c-baa6-657fc8d74145.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467283-2ab25454-1b2b-412a-9177-c60e5890c9db.png)
+![image](https://user-images.githubusercontent.com/116780506/222037541-a2387be4-687f-4146-a9ab-9351552daa5e.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467310-05e781ae-c6c7-4c90-b4a1-d2712fff9057.png)
+![image](https://user-images.githubusercontent.com/116780506/222037574-a08bed06-d3eb-48d6-a083-b2114e45597b.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467367-5d85ab74-d36c-4d97-8585-cd4d7650a3ef.png)
+![image](https://user-images.githubusercontent.com/116780506/222037635-4a74ab3d-8c45-4fcb-bf79-32b506a7baa3.png)
+![image](https://user-images.githubusercontent.com/116780506/222037670-8b0d85f2-ec36-48a5-96ff-0e6b3794d91a.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467429-6623aee8-e929-42f1-8aa5-f4aa26982e4e.png)
+![image](https://user-images.githubusercontent.com/116780506/222037733-b91c7db6-2f77-4c13-ae75-4778287a29d3.png)
+![image](https://user-images.githubusercontent.com/116780506/222037801-e1b8f630-1b62-4112-97c2-befbadc5a2eb.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467456-5ca74b67-6e13-4b04-994e-755e7a1cbe2e.png)
+![image](https://user-images.githubusercontent.com/116780506/222037825-9e15de71-d496-409b-be9f-aecc288169a6.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467481-16fb628d-e183-4226-bd52-a1032179f44e.png)
+![image](https://user-images.githubusercontent.com/116780506/222037860-7df9c510-2cce-41b1-b25c-418f90feca86.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467505-ad413ada-072a-40d0-ad70-abb2965cb465.png)
+![image](https://user-images.githubusercontent.com/116780506/222037893-3b9407d3-415f-474e-aff6-a62d5aeb3867.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467550-519ae8e1-0705-42af-96ee-76ea0732c751.png)
+![image](https://user-images.githubusercontent.com/116780506/222037943-d8faf5d8-b386-452e-bbc8-a2c268e7721f.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467587-6a638810-c925-4377-861d-1440405f57f7.png)
+![image](https://user-images.githubusercontent.com/116780506/222037983-96f2c7c7-d090-4adf-8fa8-e3da34d90be7.png)
 
+![image](https://user-images.githubusercontent.com/116780506/222038039-d61b869b-e23a-4ad2-913b-b8dce92622b2.png)
+![image](https://user-images.githubusercontent.com/116780506/222038091-95b262fe-aba3-4c9f-949e-967ab31fbf60.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467615-ec85621d-e285-4597-bc67-52514084ce66.png)
+![image](https://user-images.githubusercontent.com/116780506/222038135-f9d5f1ad-effa-42f6-b078-12afaffa1554.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467641-1efa9dda-1c55-4b89-950a-2c95c0bfc584.png)
+![image](https://user-images.githubusercontent.com/116780506/222038176-f11cf3c4-d047-4afc-9e0b-15697d8016d1.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467681-a35a6a7c-080a-492b-96e5-c371b4c26746.png)
+![image](https://user-images.githubusercontent.com/116780506/222038214-0e7f1844-9ac1-4ef2-8310-1a5ee4efeb92.png)
+![image](https://user-images.githubusercontent.com/116780506/222038247-8680f4cc-1a71-4278-8985-c027d9150ecb.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467712-4c648a54-770e-44f5-b100-57abb3b41510.png)
+![image](https://user-images.githubusercontent.com/116780506/222038284-ff515089-7c81-42fb-9bf2-a0e6fea4abb6.png)
 
-![image](https://user-images.githubusercontent.com/116780506/221467740-5ec8b8e8-9442-438f-92ac-c860fb033d11.png)
-
-![image](https://user-images.githubusercontent.com/116780506/221467778-c86cd273-decb-455f-b708-a119e89ca93a.png)
-
-![image](https://user-images.githubusercontent.com/116780506/221467812-a89e7fd6-7773-4d95-b723-3346fc695210.png)
-
-![image](https://user-images.githubusercontent.com/116780506/221467837-ad24e40c-760b-472b-8c98-ee40f5c2c17c.png)
 
 
 Video:
+https://drive.google.com/file/d/19lpACqSrNWyzh4-B9holDQhocsQjo9FA/view?usp=sharing
 
 CONCLUSIONES:
 El inductor es una bobina de alambre 
